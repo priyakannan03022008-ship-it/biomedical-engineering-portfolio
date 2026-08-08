@@ -4,7 +4,6 @@ Hi! I'm Priya Dharshini, a Biomedical Engineering student interested in healthca
 
 ## Areas of Interest
 
-- making webs
 - Healthcare Technology
 - Arduino & Sensors
 - MATLAB and python
